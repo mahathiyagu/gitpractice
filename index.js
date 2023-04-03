@@ -1,0 +1,4 @@
+function clic()
+{
+    alert("Welcome")
+}
